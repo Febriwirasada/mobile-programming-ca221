@@ -1,10 +1,10 @@
 # Mobile Programming - CA221
 
 ## Identitas
-- *Nama*: [Nama Anda]
-- *NIM*: [NIM Anda]
+- *Nama*: [Febri Wirasada]
+- *NIM*: [220010048]
 
 ## Tampilan Aplikasi
 Berikut adalah tampilan halaman utama aplikasi WhatsApp versi Flutter:
 
-![Screenshot](screenshot.png)
+![Screenshot](C:\Users\febri\OneDrive\Gambar)
